@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Proyectos\SEMANA03\bin\Debug\net10.0\SEMANA03.exe
+C:\Users\usuario\Documents\Proyectos\SEMANA03\bin\Debug\net10.0\SEMANA03.deps.json
+C:\Users\usuario\Documents\Proyectos\SEMANA03\bin\Debug\net10.0\SEMANA03.runtimeconfig.json
+C:\Users\usuario\Documents\Proyectos\SEMANA03\bin\Debug\net10.0\SEMANA03.dll
+C:\Users\usuario\Documents\Proyectos\SEMANA03\bin\Debug\net10.0\SEMANA03.pdb
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.AssemblyInfo.cs
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.sourcelink.json
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.dll
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\refint\SEMANA03.dll
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.pdb
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\SEMANA03.genruntimeconfig.cache
+C:\Users\usuario\Documents\Proyectos\SEMANA03\obj\Debug\net10.0\ref\SEMANA03.dll
