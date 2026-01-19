@@ -9,8 +9,11 @@ class Program
 
         //insertamos elementos
         lista.InsertarFinal(10);
+        lista.InsertarFinal(15);
         lista.InsertarFinal(20);
+        lista.InsertarFinal(25);
         lista.InsertarFinal(30);
+        lista.InsertarFinal(35);
         lista.InsertarFinal(40);
 
         //lista original
