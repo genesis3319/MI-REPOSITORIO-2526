@@ -1,5 +1,6 @@
 class RegistroEstudiante
 {
+    //gestiona el registro del estudiante
     public int Id;
     public string Nombres;
     public string Apellidos;
