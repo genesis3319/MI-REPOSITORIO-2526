@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\bin\Debug\net10.0\TAREA_PILAS.exe
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\bin\Debug\net10.0\TAREA_PILAS.deps.json
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\bin\Debug\net10.0\TAREA_PILAS.runtimeconfig.json
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\bin\Debug\net10.0\TAREA_PILAS.dll
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\bin\Debug\net10.0\TAREA_PILAS.pdb
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.AssemblyInfo.cs
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.sourcelink.json
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.dll
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\refint\TAREA_PILAS.dll
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.pdb
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\TAREA_PILAS.genruntimeconfig.cache
+C:\Users\usuario\Documents\Proyectos\TAREA_PILAS\obj\Debug\net10.0\ref\TAREA_PILAS.dll

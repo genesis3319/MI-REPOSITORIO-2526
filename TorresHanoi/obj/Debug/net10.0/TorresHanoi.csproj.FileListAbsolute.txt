@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\bin\Debug\net10.0\TorresHanoi.exe
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\bin\Debug\net10.0\TorresHanoi.deps.json
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\bin\Debug\net10.0\TorresHanoi.runtimeconfig.json
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\bin\Debug\net10.0\TorresHanoi.dll
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\bin\Debug\net10.0\TorresHanoi.pdb
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.AssemblyInfo.cs
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.sourcelink.json
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.dll
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\refint\TorresHanoi.dll
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.pdb
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\TorresHanoi.genruntimeconfig.cache
+C:\Users\usuario\Documents\Proyectos\TorresHanoi\obj\Debug\net10.0\ref\TorresHanoi.dll
