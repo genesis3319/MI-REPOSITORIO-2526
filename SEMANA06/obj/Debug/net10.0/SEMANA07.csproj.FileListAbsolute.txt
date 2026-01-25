@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.AssemblyInfo.cs
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.sourcelink.json
+C:\Users\usuario\Documents\Proyectos\SEMANA07\bin\Debug\net10.0\SEMANA07.exe
+C:\Users\usuario\Documents\Proyectos\SEMANA07\bin\Debug\net10.0\SEMANA07.deps.json
+C:\Users\usuario\Documents\Proyectos\SEMANA07\bin\Debug\net10.0\SEMANA07.runtimeconfig.json
+C:\Users\usuario\Documents\Proyectos\SEMANA07\bin\Debug\net10.0\SEMANA07.dll
+C:\Users\usuario\Documents\Proyectos\SEMANA07\bin\Debug\net10.0\SEMANA07.pdb
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.dll
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\refint\SEMANA07.dll
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.pdb
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\SEMANA07.genruntimeconfig.cache
+C:\Users\usuario\Documents\Proyectos\SEMANA07\obj\Debug\net10.0\ref\SEMANA07.dll
