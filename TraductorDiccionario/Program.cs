@@ -78,10 +78,10 @@ class Program
 
     static void Agregar(Dictionary<string, string> dic)
     {
-        Console.Write("\nPalabra en inglés: ");
+        Console.Write("\nPalabra en español: ");
         string ingles = Console.ReadLine().ToLower();
 
-        Console.Write("Traducción en español: ");
+        Console.Write("Traducción en ingles: ");
         string espanol = Console.ReadLine().ToLower();
 
         if (!dic.ContainsKey(ingles))
