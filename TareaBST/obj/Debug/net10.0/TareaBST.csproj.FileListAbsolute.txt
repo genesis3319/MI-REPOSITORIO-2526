@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.AssemblyInfo.cs
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.sourcelink.json
+C:\Users\usuario\Documents\Proyectos\TareaBST\bin\Debug\net10.0\TareaBST.exe
+C:\Users\usuario\Documents\Proyectos\TareaBST\bin\Debug\net10.0\TareaBST.deps.json
+C:\Users\usuario\Documents\Proyectos\TareaBST\bin\Debug\net10.0\TareaBST.runtimeconfig.json
+C:\Users\usuario\Documents\Proyectos\TareaBST\bin\Debug\net10.0\TareaBST.dll
+C:\Users\usuario\Documents\Proyectos\TareaBST\bin\Debug\net10.0\TareaBST.pdb
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.dll
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\refint\TareaBST.dll
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.pdb
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\TareaBST.genruntimeconfig.cache
+C:\Users\usuario\Documents\Proyectos\TareaBST\obj\Debug\net10.0\ref\TareaBST.dll
